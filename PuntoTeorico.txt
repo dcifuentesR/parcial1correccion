@@ -1,0 +1,12 @@
+1.1 F
+1.2 V
+1.3 V
+1.4 V
+1.5 F
+2 Hay 3 niveles de madurez de REST, en el primer nivel
+3   
+4 En un estilo cliente-servidor solo el cliente puede empezar la comunicación y se tiene un servidor dedicado, mientras que en un estilo Peer-Peer ambos equipos pueden hacerlo
+5 Un ejemplo de programa peer to peer son los servicios torrent.En estos servicios se distribuyen las descargas entre todos los usuarios del servicio. Por lo tanto no hay un servidor dedicado y cualquier usuario puede empezar la comunicacion
+6
+7 Significa que el 
+8 Una variable atomica es una variable para la cual, las operaciones que se apliquen sobre esta, no se pueden dividir
