@@ -1,4 +1,4 @@
-package edu.eci.arsw.GuidFinderDesktop;
+package edu.eci.arsw.GuidFinder.Desktop;
 
 import java.util.UUID;
 
@@ -23,6 +23,7 @@ public class GuidFinderThread extends Thread{
 		this.low=low;
 		this.high=high;
 		count=0;
+                
 	}
 	
 	@Override

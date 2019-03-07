@@ -1,4 +1,4 @@
-package edu.eci.arsw.GuidFinderDesktop;
+package edu.eci.arsw.GuidFinder.Desktop;
 
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;

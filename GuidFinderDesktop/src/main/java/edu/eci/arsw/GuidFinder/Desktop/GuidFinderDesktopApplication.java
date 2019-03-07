@@ -1,4 +1,4 @@
-package edu.eci.arsw.GuidFinderDesktop;
+package edu.eci.arsw.GuidFinder.Desktop;
 
 import java.util.UUID;
 
